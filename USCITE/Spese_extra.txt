@@ -1,2 +1,4 @@
 Cinema 100 euro
 Ristorante 150 euro
+Evento 600 euro
+Aumento bollette 120 euro
