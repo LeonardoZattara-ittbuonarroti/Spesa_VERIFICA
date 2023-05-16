@@ -6,3 +6,4 @@ Bevande 3 euro
 Pasta 4 euro
 Carne 5 euro
 Pesce 6 euro
+Tramezzini 7 euro
